@@ -1,6 +1,6 @@
 *{
     font-family: "Bubbler One", sans-serif;
-    font-size: 30px;
+    font-size: 23px;
 }
 
 h1,h2,h3,h4{
@@ -36,3 +36,22 @@ h1,h2,h3,h4{
 .bg-verde{
     background-color: var(--verde);
 }
+
+.nav-personale{
+    height: 80px;
+    width: 100%;
+    background-image: url(./media/Risorsa\ 6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+
+.cerca-dimensione{
+    height: 30px;
+
+}
+
+.logo-navbar{
+    height: 40px;
+}
+
