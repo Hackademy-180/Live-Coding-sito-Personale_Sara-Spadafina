@@ -1,0 +1,38 @@
+*{
+    font-family: "Bubbler One", sans-serif;
+    font-size: 30px;
+}
+
+h1,h2,h3,h4{
+    font-family: "Young Serif", serif;
+}
+
+:root{
+    --viola:rgb(65, 0, 38);
+    --arancione:rgb(255, 72, 0);
+    --verde:rgb(0, 145, 150);
+}
+
+.txt-viola{
+    color: var(--viola);
+}
+
+.txt-arancione{
+    color: var(--arancione);
+}
+
+.txt-verde{
+    color: var(--verde);
+}
+
+.bg-viola{
+    background-color: var(--viola);
+}
+
+.bg-arancione{
+    background-color: var(--arancione);
+}
+
+.bg-verde{
+    background-color: var(--verde);
+}
