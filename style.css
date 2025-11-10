@@ -96,3 +96,15 @@ header{
 .paragrafo1{
     height: 100vh;
 }
+
+.sezione1{
+    height: 90vh;
+    background: url(https://picsum.photos/2000);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.dimensione-row-sezione1{
+    height: 90vh;
+}
