@@ -92,3 +92,7 @@ h1,h2,h3,h4{
 header{
     margin-top: 80px;
 }
+
+.paragrafo1{
+    height: 100vh;
+}
