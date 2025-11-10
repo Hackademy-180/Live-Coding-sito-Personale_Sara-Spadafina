@@ -44,6 +44,8 @@ h1,h2,h3,h4{
     background-repeat: no-repeat;
     background-size: cover;
     position: fixed;
+    top: 0;
+    z-index: 99;
 }
 
 .cerca-dimensione{
@@ -60,6 +62,33 @@ h1,h2,h3,h4{
     width: 100%;
     background-image: url(./media/Risorsa\ 1.jpg);
 
-
 }
 
+.slide1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./media/Risorsa\ 1\ -\ Copia.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.slide2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./media/Risorsa\ 2\ -\ Copia.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.slide3{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./media/Risorsa\ 3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header{
+    margin-top: 80px;
+}
